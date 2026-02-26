@@ -22,7 +22,7 @@ cumpleanios = {
     "Maxi Perez": (2,2),
     "Claudio Aguilera": (3,2),
     "Bastian Aguilera": (11,2),
-    "Prueba del Bot": (26,2)
+    "Prueba 2 del Bot": (27,2)
 }
 
 # ==============================
@@ -52,4 +52,5 @@ def revisar_cumpleanios():
 # ==============================
 
 if __name__ == "__main__":
+
     revisar_cumpleanios()
